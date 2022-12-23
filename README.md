@@ -18,3 +18,5 @@ In uploadpicture page button is provided to upload an image using camera plugin
 https://ionicframework.com/docs
 https://www.tutorialspoint.com/ionic/index.htm
 
+#link for apk
+https://github.com/snehalb22/web_and_mobile_android_app/tree/main/Apk%20File
