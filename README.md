@@ -13,6 +13,7 @@ uploadpicture
 *In product Detail page product images along with description is displayed
 *Also user can choose shoe size and color according to user preference I
 *In uploadpicture page button is provided to upload an image using camera plugin
-References 
+
+#References 
 https://ionicframework.com/docs
 
